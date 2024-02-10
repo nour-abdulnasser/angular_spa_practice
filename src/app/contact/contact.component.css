@@ -1,0 +1,30 @@
+
+
+.line{
+    content: "";
+    width: 125px;
+    height: 5px;
+    background-color: #112163;
+}
+
+input{
+    padding: 15px;
+    font-size: 20px;
+}
+
+.contact-page{
+    background-color: white;
+}
+
+h2{
+    margin-top: 20px;
+    font-size: 2.5rem;
+    color: #112163;
+
+}
+
+.btn{
+    background-color: #1ABC9C;
+color: white;
+font-size: 20px;
+}
